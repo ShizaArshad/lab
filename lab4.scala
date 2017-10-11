@@ -36,7 +36,7 @@ object lab4 {
 		loop(2)
 	}                                         // isPrime: (num: Int)Boolean
 	
-	isPrime(5)                                // res1: Boolean = true
+	isPrime(5)                                // res1: Boolean = true pgeo htrjkljr 
 	
 	def coprime(a:Int, b:Int):Int = if(b == 0) a else coprime(b, a%b)
                                                   // coprime: (a: Int, b: Int)Int
